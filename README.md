@@ -14,7 +14,7 @@
  
 <br>
  
-### Para conteúdos sobre programação vamos juntos nesta jornada!
+### Para programar, necessario se estudar!
  
 <!-- <div>  
   <a href="https://www.youtube.com/guilhermede-lima" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
